@@ -1,11 +1,11 @@
 ---
 title: 以 GitHub 为主的示例文
 slug: hello-github-primary
-category: 技术
+category: tech
 category_slug: tech
 tags: ["Typecho", "GitHub", "笔记"]
 status: publish
-source: github
+source: typecho
 created: 2026-08-12
 ---
 
