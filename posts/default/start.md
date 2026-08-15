@@ -4,6 +4,7 @@ slug: start
 category: 默认分类
 category_slug: default
 tags: []
+visibility: public
 status: publish
 source: typecho
 created: 2026-08-12
