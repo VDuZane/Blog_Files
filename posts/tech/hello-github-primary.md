@@ -1,9 +1,10 @@
 ---
 title: 以 GitHub 为主的示例文
 slug: hello-github-primary
-category: tech
+category: 技术
 category_slug: tech
 tags: ["Typecho", "GitHub", "笔记"]
+visibility: member
 status: publish
 source: typecho
 created: 2026-08-12
